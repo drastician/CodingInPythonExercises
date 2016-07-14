@@ -1,0 +1,2 @@
+#Exercises for the Coding in Python Course
+Thsi repository holds the scripts generated during the beginning Coding in Python course held at the Smithsonian July to August, 2016.
